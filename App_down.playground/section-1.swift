@@ -16,5 +16,7 @@ let onSaleInferred = true
 let onsaleExplicit:Bool = false
 
 let nameInferred = "whoopie Cushion"
+let nameExplicit:String = "whoopie Cushion"
+
 
 
